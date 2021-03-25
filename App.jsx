@@ -42,10 +42,6 @@ export default function App() {
           </View>
         </View>
       </View>
-      {/* <Hello bang>World</Hello>
-      <Hello bang style={{ fontSize: 16 }}>Small World</Hello>
-      <Text>Open up App.js to start working on your app!</Text>
-      {/* eslint-disable-next-line */}
       <View style={styles.circleButton}>
         <Text style={styles.circleButtonLabel}>+</Text>
       </View>
